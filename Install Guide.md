@@ -14,3 +14,8 @@ Top-level subvolumes:
 - @virtual_machines
 - @swap
 - @home
+
+Additional packages:
+- btrfs-progs
+- btrfsmaintenance
+- snapper
