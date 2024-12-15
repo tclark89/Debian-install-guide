@@ -12,3 +12,5 @@ Top-level subvolumes:
 - @apt_cache
 - @snapshots
 - @virtual_machines
+- @swap
+- @home
