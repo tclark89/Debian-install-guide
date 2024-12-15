@@ -19,3 +19,28 @@ Additional packages:
 - btrfs-progs
 - btrfsmaintenance
 - snapper
+- docker
+- flatpack
+    - makemkv
+    - handbrake
+    - picard
+    - firefox
+    - mpv
+    - mkvtoolnix
+    - vlc
+    - vlc bluray menus
+    - makemkv plugin for VLC
+- qemu
+- htop
+- mc
+- ncdu
+- pipx
+    - beets
+    - yt-dlp
+- nvidia drivers
+- tigervnc
+- xfce4
+
+Additional
+- setup backports
+- systemd services
